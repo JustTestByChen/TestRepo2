@@ -88,4 +88,6 @@ class PaymentQuery(TestCase):
     def clean_test(self):
         self.logger.debug("clean test...")
         self.logger.debug("clean test over.")
+
+    a = "to be or not to be, it's a problem"
         
